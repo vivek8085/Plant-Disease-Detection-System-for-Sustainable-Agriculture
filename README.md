@@ -1,5 +1,5 @@
 # 🌿Plant Disease Detection System for Sustainable Agriculture
-A Convolutional Neural Network (CNN)-based deep learning solution to detect and classify plant diseases using leaf images. This system aims to assist farmers—especially small-scale and rural farmers—in early identification of crop diseases to enable timely intervention and promote sustainable agricultural practices.
+A Convolutional Neural Network (CNN)-based deep learning solution to detect and classify plant diseases using images. This system aims to assist farmers—especially small-scale and rural farmers—in early identification of crop diseases to enable timely intervention and promote sustainable agricultural practices.
 
 # 🚀 Project Overview
 Plant diseases can drastically impact food production and economy. Manual identification of diseases is time-consuming and often inaccurate. This project provides an automated tool that leverages CNN to identify various plant diseases through image recognition, supporting better crop health management.
